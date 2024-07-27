@@ -40,3 +40,4 @@ func writeResponse(writer http.ResponseWriter, responseString string) {
 		log.Println(err)
 	}
 }
+Hello World
